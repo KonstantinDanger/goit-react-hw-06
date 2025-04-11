@@ -1,0 +1,26 @@
+.contact {
+  min-width: 230px;
+  display: flex;
+  border: 2px solid black;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  border-radius: 6px;
+  padding: 10px;
+  padding-left: 12px;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: 5px;
+}
+
+.contact button {
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.icon {
+  margin-right: 6px;
+}

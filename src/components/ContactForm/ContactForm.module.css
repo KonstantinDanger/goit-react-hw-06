@@ -1,0 +1,22 @@
+.form {
+  width: 400px;
+  text-align: left;
+  border: 1.5px solid black;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.field {
+  display: grid;
+  margin-top: 10px;
+}
+
+.form button {
+  margin-top: 15px;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.error {
+  color: orangered;
+}

@@ -1,0 +1,11 @@
+.searchBox {
+  padding: 10px;
+  width: 400px;
+  margin-top: 15px;
+  display: grid;
+  text-align: left;
+}
+
+.searchBox input {
+  margin-top: 4px;
+}
